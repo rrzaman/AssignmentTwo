@@ -11,7 +11,8 @@ public class main {
 
         System.out.println("The number of even numbers in iRefactoredThisVariable is: " +
                 countEvenNum(iRefactoredThisVariable, iRefactoredThisVariable.length) + ".");
-        System.out.println("The number of even numbers in iRefactoredThisVariableToo is: " + countEvenNum(iRefactoredThisVariableToo, iRefactoredThisVariableToo.length) + ".");
+        System.out.println("The number of even numbers in iRefactoredThisVariableToo is: " +
+                countEvenNum(iRefactoredThisVariableToo, iRefactoredThisVariableToo.length) + ".");
 
     }
 
