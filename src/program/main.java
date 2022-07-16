@@ -16,6 +16,7 @@ public class main {
 
     }
 
+    // countEvenNum
     public static int countEvenNum(int[] arr, int size) {
         int count = 0;
 
